@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1676992991 source:/home/mus/Dropbox/C++Programming/Cpp_OOP_L1/OOP_Projects_Period_Class/main.cpp
+	<iostream>
+	"../OOP_Projects_Date/include/clsDate.h"
+	"clsPeriod.h"
+
+1676990543 source:/home/mus/Dropbox/C++Programming/Cpp_OOP_L1/OOP_Projects_Period_Class/src/clsPeriod.cpp
+	"clsPeriod.h"
+
+1676993023 /home/mus/Dropbox/C++Programming/Cpp_OOP_L1/OOP_Projects_Period_Class/include/clsPeriod.h
+	"../../OOP_Projects_Date/include/clsDate.h"
+	<iostream>
+
+1676989004 /home/mus/Dropbox/C++Programming/Cpp_OOP_L1/OOP_Projects_Date/include/clsDate.h
+	<iostream>
+	<vector>
+	<string>
+	<stdio.h>
+	<../../OOP_Project_String_Class/include/clsString.h>
+
+1676843259 /home/mus/Dropbox/C++Programming/Cpp_OOP_L1/OOP_Project_String_Class/include/clsString.h
+	<iostream>
+	<string>
+	<vector>
+
